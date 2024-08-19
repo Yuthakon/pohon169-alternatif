@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: 
-Sitemap: https://pohon169login.pages.dev/sitemap.xml
+Sitemap: https://pohon169-alternatif.pages.dev/sitemap.xml
